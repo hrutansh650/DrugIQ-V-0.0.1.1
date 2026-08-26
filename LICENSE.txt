@@ -1,0 +1,105 @@
+DrugIQ – Proprietary License Agreement
+Version 1.0
+Last Updated: 22-11-2025
+
+Copyright © 2005 DrugIQ.
+All Rights Reserved.
+
+This software, including its design, database structure, drug information content,
+machine-learning components, analytics modules, UI/UX layouts, and all related files 
+(collectively, the “Software”) is the exclusive property of DrugIQ.
+
+By accessing, installing, or using the Software, you agree to be bound by the terms 
+of this License Agreement.
+
+------------------------------------------------------------------------------------
+
+1. GRANT OF LICENSE
+DrugIQ grants you a limited, non-transferable, revocable license to:
+- Access and use the Software solely for personal or professional clinical reference.
+- Access the platform as part of a paid or free subscription tier.
+
+No ownership rights are transferred to the user.
+
+------------------------------------------------------------------------------------
+
+2. RESTRICTIONS
+Users may NOT:
+- Copy, modify, distribute, or resell the Software or its database.
+- Reverse-engineer, decompile, or extract the drug datasets.
+- Build competing products using DrugIQ’s data, design, or algorithms.
+- Share login credentials or provide platform access to unauthorized users.
+- Use the Software for commercial resale or redistribution without written permission.
+
+------------------------------------------------------------------------------------
+
+3. DATA & CONTENT OWNERSHIP
+All drug information, brand data, classifications, analytics, interaction logic, 
+recommendation algorithms, and database structures are proprietary assets of DrugIQ.
+
+User-generated content (e.g., patient notes or feedback) remains the property of the user,
+but DrugIQ may use aggregated, anonymized data to improve platform performance.
+
+------------------------------------------------------------------------------------
+
+4. SUBSCRIPTION TERMS
+The functionalities available to users depend on the subscription tier:
+- Free Tier
+- Pro Tier (₹499/month)
+- Enterprise Tier (Custom Pricing)
+
+Access will terminate if subscription lapses or if misuse is detected.
+
+------------------------------------------------------------------------------------
+
+5. SECURITY & COMPLIANCE
+Users must comply with:
+- CDSCO regulations
+- National Digital Health Mission (NDHM) guidelines
+- Applicable medical and pharmacy laws in India
+
+DrugIQ is not responsible for clinical errors or misuse of information.
+
+------------------------------------------------------------------------------------
+
+6. WARRANTY DISCLAIMER
+The Software is provided “AS IS,” without warranties of any kind, including:
+- Accuracy or completeness of drug information
+- Clinical decision suitability
+- Error-free performance or uptime guarantees
+
+Doctors must use professional judgment when prescribing.
+
+------------------------------------------------------------------------------------
+
+7. LIMITATION OF LIABILITY
+DrugIQ is not liable for:
+- Medical outcomes, prescription errors, or patient harm
+- Loss of profit, data, or business interruption
+- Any indirect or consequential damages
+
+------------------------------------------------------------------------------------
+
+8. TERMINATION
+DrugIQ may suspend or terminate access if:
+- Terms are violated
+- Unauthorized access is detected
+- Database misuse or extraction attempts occur
+
+Upon termination, all rights revert to DrugIQ.
+
+------------------------------------------------------------------------------------
+
+9. GOVERNING LAW
+This Agreement is governed by the laws of India.
+Legal jurisdiction: Mumbai, Maharashtra.
+
+------------------------------------------------------------------------------------
+
+10. CONTACT INFORMATION
+For licensing or enterprise access:
+Email: support@drgiq.com (replace with your email)
+
+------------------------------------------------------------------------------------
+
+END OF LICENSE AGREEMENT
